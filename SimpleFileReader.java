@@ -9,7 +9,8 @@ import java.io.File;
 public class SimpleFileReader {
     public static void main(String[] args) {
         // The name of the file to read
-        String fileName = "sample1.txt";
+        // String fileName = "sample.txt";
+        String fileName = "C:\\Users\\USER\\OneDrive\\IntelliJ\\TechnoHacksJavaInternshipTasks\\src\\sample.txt";
 
         System.out.println("=== Simple File Reader ===");
 

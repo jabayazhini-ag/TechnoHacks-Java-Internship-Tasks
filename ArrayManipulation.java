@@ -52,6 +52,7 @@ public class ArrayManipulation {
 
         // Ask user for a number to search
         System.out.print("\n\nEnter a number to search: ");
+        scanner.nextLine();
         int key = scanner.nextInt();
 
         // Search using Linear Search
